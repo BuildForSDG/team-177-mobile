@@ -15,15 +15,11 @@ alleviate poverty.
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/14147462/83654830-50725800-a5c6-11ea-945d-347500ee306e.jpg" alt="screenshot" width="200"/>
+<img src="https://user-images.githubusercontent.com/14147462/83654830-50725800-a5c6-11ea-945d-347500ee306e.jpg" alt="screenshot" width="425"/> <img src="https://user-images.githubusercontent.com/14147462/83654835-523c1b80-a5c6-11ea-9438-677d05f7a19a.jpg" alt="screenshot" width="425"/>
 
-<img src="https://user-images.githubusercontent.com/14147462/83654835-523c1b80-a5c6-11ea-9438-677d05f7a19a.jpg" alt="screenshot" width="200"/>
+<img src="https://user-images.githubusercontent.com/14147462/83654837-536d4880-a5c6-11ea-9e77-f1541fc3f1bd.jpg" alt="screenshot" width="425"/><img src="https://user-images.githubusercontent.com/14147462/83654841-55370c00-a5c6-11ea-8632-a34b168823a5.jpg" alt="screenshot" width="425"/>
 
-<img src="https://user-images.githubusercontent.com/14147462/83654837-536d4880-a5c6-11ea-9e77-f1541fc3f1bd.jpg" alt="screenshot" width="200"/>
-
-<img src="https://user-images.githubusercontent.com/14147462/83654841-55370c00-a5c6-11ea-8632-a34b168823a5.jpg" alt="screenshot" width="200"/>
-
-<img src="https://user-images.githubusercontent.com/14147462/83654839-5405df00-a5c6-11ea-8e03-f7fb4685614e.jpg" alt="screenshot" width="200"/>
+<img src="https://user-images.githubusercontent.com/14147462/83654839-5405df00-a5c6-11ea-8e03-f7fb4685614e.jpg" alt="screenshot" width="425"/>
 
 ## Usage
 
