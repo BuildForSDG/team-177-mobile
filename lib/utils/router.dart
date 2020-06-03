@@ -9,7 +9,10 @@ class Router {
   static Route<dynamic> generateRoute(RouteSettings settings) {
     switch (settings.name) {
       case '/':
-        return MaterialPageRoute(builder: (_) => WelcomeScreen());
+        return MaterialPageRoute(
+            builder: (_) => WelcomeScreen(
+                  title: "Kenright",
+                ));
       case '/login':
         return MaterialPageRoute(builder: (_) => LoginPage());
       case '/signup':

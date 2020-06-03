@@ -4,6 +4,9 @@ import 'package:kenright/ui/widgets/rounded_btn.dart';
 import 'package:kenright/utils/constants.dart';
 
 class WelcomeScreen extends StatelessWidget {
+  final String title;
+
+  const WelcomeScreen({Key key, this.title}) : super(key: key);
   @override
   Widget build(BuildContext context) {
     SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
@@ -22,7 +25,7 @@ class WelcomeScreen extends StatelessWidget {
           children: <Widget>[
             // SizedBox(height: 200),
             Text(
-              "Kenright",
+              title,
               style: TextStyle(
                 color: Colors.black,
                 fontSize: 40,
