@@ -1,5 +1,7 @@
 # KenRight
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2f35a99d763e4018b6b683f1d871f7c4)](https://app.codacy.com/gh/BuildForSDG/team-177-mobile?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/team-177-mobile&utm_campaign=Badge_Grade_Settings)
+
 Know your rights, end poverty.
 
 ## About
